@@ -1,2 +1,8 @@
 este contenido es para hacer pruebas
-estos son cambios hechos en el master
+git init (genera el repositorio)
+git add . (agrega todos los archivos al repositorio)
+git status (consulta lo que agregaste)
+git commit -m "aca el nombre que quieras" (crea el commit con el nombre asignado)
+git log (muestra el nombre del commit, las modificaciones que se hicieron con fecha y demas)
+git branch "aca el nombre que quieras" (crea otra rama con el nombre asignado, arrancas con el master y aca creas puntos de restauracion)
+git switch (esto cambia el branch, del master en este caso a mulo1)
